@@ -1,0 +1,14 @@
+{
+  "contracts": [
+    {
+      "id": 1,
+      "name": "Empréstimo Pessoal",
+      "about": "Escolha o valor que você precisa, receba rápido, sem burocracia."
+    },
+    {
+      "id": 2,
+      "name": "Empréstimo Pessoal com garantia",
+      "about": "Use seu imóvel ou veículo como garantia, consiga as melhores taxas "
+    }
+  ]
+}
